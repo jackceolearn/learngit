@@ -20,3 +20,4 @@ git reset --hard HEAD^
 git reset --hard 1094a
 git reflog
 
+git status
