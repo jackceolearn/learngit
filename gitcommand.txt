@@ -1,0 +1,13 @@
+setup
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
+pwd
+git init
+
+git add ***
+git commit -m 'why i do this'
+
+
+git status
+
+
