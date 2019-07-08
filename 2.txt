@@ -1,2 +1,7 @@
 啊实打实的
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaa
+=======
+Creating a new branch is quick AND simple.
+
+>>>>>>> feature1
